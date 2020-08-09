@@ -1,3 +1,4 @@
 1. What technology was used in this project to parse XML? Please find and described tags (annotations) used for parsing
 XML.
 2. What is XSD used for?
+3. What is difference between SAX and DOM parsers?

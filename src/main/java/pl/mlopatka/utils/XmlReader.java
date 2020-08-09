@@ -19,7 +19,7 @@ public class XmlReader {
     private final SchemaFactory factory = SchemaFactory.newInstance(XMLConstants.W3C_XML_SCHEMA_NS_URI);
 
     public GoodsTransport parseXml(String filePath) throws IOException, JAXBException, SAXException {
-        validateXmlSchema(TransportConsts.GOODS_TRANSPORT_SCHEMA, filePath);
+//        validateXmlSchema(TransportConsts.GOODS_TRANSPORT_SCHEMA, filePath);
         String xml = fileReader.readFile(filePath);
         return xmlParser.parseXml(xml);
     }
