@@ -2,7 +2,7 @@ This project is for training purpose only. It works on java 11 version.
 
 The project simulates verification of transport requests.
 
-There are 3 tasks to do:
+There are few tasks to do:
 
 -Add rule in class SimpleTransportVerifier that reject transports of 
 BIG goods when truck capacity is lower than 200 (use isTruckSizeEnough method).
