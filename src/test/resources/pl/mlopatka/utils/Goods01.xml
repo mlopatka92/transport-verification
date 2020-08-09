@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO_8859-2"?>
+<goods_transport>
+    <source_address>
+        <city>Kraków</city>
+        <street>Rynek</street>
+    </source_address>
+    <dest_address>
+        <city>Kraków</city>
+        <street>Wielicka</street>
+    </dest_address>
+    <truck>
+        <id>12345678</id>
+        <capacity>250</capacity>
+    </truck>
+    <goods_type>SMALL</goods_type>
+</goods_transport>
