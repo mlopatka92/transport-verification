@@ -1,4 +1,4 @@
-This project is for training purpose only. It works on java 11 version.
+This project is for training purpose only. It works on java 11.
 
 The project simulates verification of transport requests.
 
